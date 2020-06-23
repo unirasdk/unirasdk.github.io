@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Miscellaneous</title>
+    <link>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_misc.html</link>
+    <description>Miscellaneous</description>
+    <item>
+      <title>Group Photo</title>
+      <link>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_misc.html#0</link>
+      <guid isPermaLink="false">ed70ffe8-ba7c-4752-9b61-f670c5157bd6</guid>
+      <enclosure url="http://www.uniras.dk/Uniras/Photos/Pages/Uniras_misc_files/Media/Group%20Photo/Group%20Photo.jpg" length="99746" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_misc_files/Media/Group%20Photo/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_misc_files/Media/Group%20Photo/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_misc_files/Media/Group%20Photo/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Group Photo&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

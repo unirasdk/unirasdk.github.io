@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Photos and Newspaper scans</title>
+    <link>http://www.uniras.dk/Uniras/Photos/Photos.html</link>
+    <description>Photos and Newspaper scans</description>
+    <item>
+      <title>Uniras datasheets</title>
+      <link>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_datasheets.html</link>
+      <guid isPermaLink="false">aa0a7259-d535-47c2-9578-93ff56b61e40</guid>
+    </item>
+    <item>
+      <title>Uniras in the media</title>
+      <link>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_in_the_media.html</link>
+      <guid isPermaLink="false">a87ace42-8eb3-4cc1-b221-c2f63b24d7ab</guid>
+    </item>
+    <item>
+      <title>Uniras exhibitions</title>
+      <link>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions.html</link>
+      <guid isPermaLink="false">e69145e6-59dd-480e-b678-c77dae6a7dce</guid>
+    </item>
+    <item>
+      <title>Uniras misc</title>
+      <link>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_misc.html</link>
+      <guid isPermaLink="false">670a7ce2-7c6b-4d49-8a98-7be2380cb80b</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Exhibitions</title>
+    <link>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions.html</link>
+    <description>Exhibitions</description>
+    <item>
+      <title>First Show 1</title>
+      <link>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions.html#0</link>
+      <guid isPermaLink="false">deab7da4-a952-44f0-9e41-624eda554311</guid>
+      <enclosure url="http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions_files/Media/First%20Show%201/First%20Show%201.jpg" length="82089" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions_files/Media/First%20Show%201/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions_files/Media/First%20Show%201/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions_files/Media/First%20Show%201/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;First Show 1&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>First Show 4</title>
+      <link>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions.html#1</link>
+      <guid isPermaLink="false">2596f084-c7ba-4338-a513-d44fd6567fad</guid>
+      <enclosure url="http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions_files/Media/First%20Show%204/First%20Show%204.jpg" length="85563" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions_files/Media/First%20Show%204/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions_files/Media/First%20Show%204/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions_files/Media/First%20Show%204/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;First Show 4&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>First Show 2</title>
+      <link>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions.html#2</link>
+      <guid isPermaLink="false">1e410e71-0065-41c3-a0f5-f75b2ddf281d</guid>
+      <enclosure url="http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions_files/Media/First%20Show%202/First%20Show%202.jpg" length="87679" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions_files/Media/First%20Show%202/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions_files/Media/First%20Show%202/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions_files/Media/First%20Show%202/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;First Show 2&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>First Show 0</title>
+      <link>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions.html#3</link>
+      <guid isPermaLink="false">65975a60-3968-4b2f-bc9d-2e2126cd21aa</guid>
+      <enclosure url="http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions_files/Media/First%20Show%200/First%20Show%200.jpg" length="90245" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions_files/Media/First%20Show%200/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions_files/Media/First%20Show%200/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions_files/Media/First%20Show%200/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;First Show 0&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>First Show 3</title>
+      <link>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions.html#4</link>
+      <guid isPermaLink="false">63794791-580c-47e3-9529-62cfc615be79</guid>
+      <enclosure url="http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions_files/Media/First%20Show%203/First%20Show%203.jpg" length="92304" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions_files/Media/First%20Show%203/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions_files/Media/First%20Show%203/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.uniras.dk/Uniras/Photos/Pages/Uniras_exhibitions_files/Media/First%20Show%203/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;First Show 3&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>
